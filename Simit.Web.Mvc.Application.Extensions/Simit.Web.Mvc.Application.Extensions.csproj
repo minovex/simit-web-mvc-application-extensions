@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Simit.ComponentModel.DataAnnotations">
-      <HintPath>packages\Simit.ComponentModel.DataAnnotations.1.1.1\lib\net40\Simit.ComponentModel.DataAnnotations.dll</HintPath>
+      <HintPath>..\packages\Simit.ComponentModel.DataAnnotations.1.1.1\lib\net40\Simit.ComponentModel.DataAnnotations.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
